@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f7773e-ae22-4422-a2bf-c612c50c82aa" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PersoonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f7f7773e-ae22-4422-a2bf-c612c50c82aa" name="Changes" comment="Test klaar">
       <change beforePath="$PROJECT_DIR$/src/main/java/Persoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Persoon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +46,8 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/joann/IdeaProjects/JUnit/JUnitTest"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +58,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersoonTest.juisteVoornamen">
+  <component name="RunManager" selected="JUnit.PersoonTest">
     <configuration name="PersoonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnitTest" />
       <option name="PACKAGE_NAME" value="" />
@@ -93,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PersoonTest.juisteVoornamen" />
         <item itemvalue="JUnit.PersoonTest" />
+        <item itemvalue="JUnit.PersoonTest.juisteVoornamen" />
         <item itemvalue="JUnit.PersoonTest.toStringGeeftAlleVoornamenGescheidenDoorEenSpatieVolgordeZoalsToegevoegd" />
       </list>
     </recent_temporary>
@@ -116,11 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1710837771769</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test klaar">
+      <option name="closed" value="true" />
+      <created>1710842809203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710842809203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Test klaar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test klaar" />
   </component>
 </project>
